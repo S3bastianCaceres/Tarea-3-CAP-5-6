@@ -19,7 +19,7 @@ Al finalizar la investigación, los objetivos han de ser identificables con los 
 
 Considerar la Taxonomía de Bloom
 
-<h3>MARCO TEÓRICO (RESUMEN)</h3>
+<h3>2. MARCO TEÓRICO (RESUMEN)</h3>
 
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
@@ -32,19 +32,19 @@ Se describe la teoría o conjunto teórico apropiado con la cual el investigador
 
 Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
-<h3>EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS</h3>
+<h3>3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS</h3>
 
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas. La solución deb estar en esta sección, no como un archivo anexo.
 
-<h3>VIDEO</h3>
+<h3>4. VIDEO</h3>
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
 
-<h3>CONCLUSIONES</h3>
+<h3>5.CONCLUSIONES</h3>
 
 Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
 
-<h3>BIBLIOGRAFÍA</h3>
+<h3>6. BIBLIOGRAFÍA</h3>
 
 Emplear normas APA.
 
