@@ -14,6 +14,7 @@
 
 <h3> Capitulo 5</h3>
 
+
 **5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior**
 
 ![image](https://user-images.githubusercontent.com/93739242/143328855-622885c2-87f3-47a8-bbd4-0ab2bc915203.png)
@@ -48,6 +49,18 @@ FORMULA
 
 <img src="https://latex.codecogs.com/svg.image?1000000&plus;470000&plus;1000&plus;2200000=3671000\Omega\to&space;3.671&space;M\Omega&space;&space;" title="1000000+470000+1000+2200000=3671000\Omega\to 3.671 M\Omega " />
 
+
+**15. Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?**
+
+![imagen](https://user-images.githubusercontent.com/93798427/143315931-876ccf9e-5825-43d6-95f4-f8e7aefb6c45.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143317576-5ba63226-e4f1-4698-bea5-6f578968cb6d.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143317657-ce9dcf45-2d14-425a-b005-b4fc8010b1d8.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143317729-5d2ba31e-c05d-41c3-9332-9e70d9e3d77d.png)
+
+
 **17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.**
  
  ![image](https://user-images.githubusercontent.com/93739242/143328833-44c0f5cd-7074-4ffd-a890-75196d4a22fb.png)
@@ -57,6 +70,39 @@ FORMULA
 
  
 <img src="https://latex.codecogs.com/svg.image?1000&plus;5600&plus;2200&plus;4.7&plus;10&plus;12&plus;1&plus;1000000&plus;560000&plus;5600000&plus;680000&plus;10000000=17848827.7\Omega\to&space;17.8&space;M\Omega&space;&space;" title="1000+5600+2200+4.7+10+12+1+1000000+560000+5600000+680000+10000000=17848827.7\Omega\to 17.8 M\Omega " />
+
+**21. Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.
+(a) ¿Cuál es la corriente en el circuito?
+(b) ¿Cuál es el voltaje a través de cada resistor?
+(c) ¿Cuál es el valor nominal de potencia de los resistores?
+
+![imagen](https://user-images.githubusercontent.com/93798427/143317837-f11d5a67-ebc3-42fc-9b7c-271daad9fc6e.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143317854-1f29601d-9a29-4203-843d-5b96d7814b48.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143317921-f35349f4-c5b0-45f8-9f22-167f44a96c66.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143317959-99b0a020-1530-4531-a19d-b6f9dfcf8630.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143317984-358e4828-9e74-497a-aa80-cba0f1896e49.png)
+
+
+**b
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318022-33188500-ace2-4192-bb46-9b56ccaa86b4.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318052-b861f168-1d29-4eba-aaa6-e8bc447c62a7.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318072-3fd61e67-9df0-40e8-96ca-f82f2481b2c9.png)
+
+
+**c
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318094-7f484a23-2ebe-4375-94a8-4b48c7422aab.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318138-36da2239-9335-488d-bb2a-80daf0660465.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318161-d9f63b2d-86ef-4ed0-ace4-65d376c4fbcd.png)
 
 **23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?**
  
@@ -71,6 +117,14 @@ c) <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}=\frac{6.58}{0.06
 
 d) <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}=\frac{30.9}{0.0658}=470\Omega" title="R=\frac{V}{I}=\frac{30.9}{0.0658}=470\Omega" />
 
+**27.Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total**
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318210-86046ca1-5276-4bbc-bb32-5a63aeaeda98.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318233-d2f4fd86-98b6-4fc8-a93b-866d1bcf9ddf.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318252-b5c43560-605b-4ede-9c26-c0bb7e55558e.png)
+
 **29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.**
 
 ![image](https://user-images.githubusercontent.com/93739242/143328794-47671212-c238-4783-ab69-fad219a8f3ad.png)
@@ -81,6 +135,26 @@ d) <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}=\frac{30.9}{0.06
 (b) <img src="https://latex.codecogs.com/svg.image?10&plus;50-25=35V" title="10+50-25=35V" />
 
 (c) <img src="https://latex.codecogs.com/svg.image?8-8=0V" title="8-8=0V" />
+
+
+**33. En el circuito de la figura 5-81, determine la resistencia de R4.**
+
+![imagen](https://user-images.githubusercontent.com/93798427/143316789-4c1a2a2d-7aa2-4b6e-b628-bbd08ef0632e.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318303-770cdf97-9bfc-4c0d-b82e-b950bcb9f14d.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318323-9ab24826-2dbf-42fb-bc0b-caa9a4bee580.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318346-ab06d2d5-bdfd-4c0a-8a14-492e92ce7b2b.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143324560-fc4746f3-24a5-4c56-b346-2202827e5386.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318438-8baa3110-9d1c-4fdd-ba54-016cab4b1337.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318474-9d852ac0-629a-46f2-bcc8-008d65f8c277.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318500-d317d0fb-5f40-42d9-838e-e40032484fd6.png)
+
 
 **35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.**
  
@@ -94,6 +168,24 @@ Posición B: 4.5 V
 Posición C: 5.4 V 
 
 Posición D: 7.2 V
+
+**39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a)**
+
+![imagen](https://user-images.githubusercontent.com/93798427/143317286-69a8b755-cfa5-431d-a179-70e0d52d15f0.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318576-62bf63b4-374f-434f-ac44-e661ef610ed1.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318606-64926b72-9732-408a-b70a-066e90090dd7.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318628-4be51e0f-1dfc-4c5e-8852-b2177f68ba6a.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318669-c978d3b8-7261-4d04-9548-fc80fc2061c2.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318699-c8366a34-48ab-44c7-b03a-3e5849fb9247.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318741-139d52b8-e519-4f98-a6e8-4a4cc63377e4.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318767-6b394d9b-1446-445c-bc6d-6ad8188a74b4.png)
 
 **41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica**
 
@@ -117,6 +209,27 @@ Voltaje de fuente total = 30.69 V
 
 <img src="https://latex.codecogs.com/svg.image?P_{T}=\frac{V^{2}_{s}}{R_{T}}=\frac{(30.69V)^{2}}{17160\Omega&space;}=0.0549W\to&space;54.9mW" title="P_{T}=\frac{V^{2}_{s}}{R_{T}}=\frac{(30.69V)^{2}}{17160\Omega }=0.0549W\to 54.9mW" />
 
+
+**51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.**
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318842-34118111-b685-40e1-8580-7c53576afd5c.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143318952-b42a3b06-f59a-4ec6-afaa-76050409dd71.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143319078-5c148e93-691b-4057-bbb5-f4a9aae6b6d1.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143319114-7621fd4c-6e8d-48ea-bd12-97b92050d209.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143319149-d57092e0-dba7-4a3d-bb12-cd03e76aef43.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143319201-dedf9139-c466-4d59-bb01-762c3fb9cd83.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143319252-d3d23f29-df81-4bd9-b23c-b4f886e3d3f3.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143319309-fea67479-2637-45d2-9476-0d1acbfeee5c.png)
+
+
+
 **53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra**
 
 ![image](https://user-images.githubusercontent.com/93739242/143328752-a4b1b6d9-72bf-432d-ae33-46f10cc849c6.png)
@@ -136,9 +249,16 @@ Sí. Hay un corto entre la clavija 4 y el lado superior de R11.
 
 <h3> Capitulo 6</h3>
 
+
+
 **5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?**
 
 ![image](https://user-images.githubusercontent.com/93739242/143328738-96fb145a-83d8-493c-bfb5-8f6037f0904a.png)
+
+**9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
+300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+![imagen](https://user-images.githubusercontent.com/93798427/143319929-c2224e96-837f-4f8e-b311-6d704f096d29.png)
 
  
 Los tres medidores están en serie, de modo que el voltaje a través de cada uno es igual al voltaje de fuente aplicado. El voltaje a través de los medidores es 100V
@@ -151,9 +271,36 @@ Los tres medidores están en serie, de modo que el voltaje a través de cada uno
 
 <img src="https://latex.codecogs.com/svg.image?I_{T}=I_{1}&plus;I_{2}&plus;I_{3}&plus;I_{4}\\[5pt]I_{4}=I_{T}-I_{1}-I_{2}-I_{3}\\[5pt]I_{4}=5.03-1-2.14-0.47\\[5pt]I_{4}=1.42mA\\[5pt]V_{1}=I_{1}*R_{1}=(1*10^{-3}A)(47\Omega&space;)\\[5pt]\textit{El&space;voltaje&space;es&space;el&space;mismo&space;en&space;todas&space;las&space;resistencias}\\[5pt]R=\frac{V}{I}\\[5pt]R_{2}=\frac{4.7*10^{-2}}{2.14*10^{-3}}=22\Omega&space;\\[5pt]R_{3}=\frac{4.7*10^{-2}}{0.470*10^{-3}}=100\Omega&space;\\[5pt]R_{4}=\frac{4.7*10^{-2}}{1.42*10^{-3}}=33.09\Omega&space;&space;" title="I_{T}=I_{1}+I_{2}+I_{3}+I_{4}\\[5pt]I_{4}=I_{T}-I_{1}-I_{2}-I_{3}\\[5pt]I_{4}=5.03-1-2.14-0.47\\[5pt]I_{4}=1.42mA\\[5pt]V_{1}=I_{1}*R_{1}=(1*10^{-3}A)(47\Omega )\\[5pt]\textit{El voltaje es el mismo en todas las resistencias}\\[5pt]R=\frac{V}{I}\\[5pt]R_{2}=\frac{4.7*10^{-2}}{2.14*10^{-3}}=22\Omega \\[5pt]R_{3}=\frac{4.7*10^{-2}}{0.470*10^{-3}}=100\Omega \\[5pt]R_{4}=\frac{4.7*10^{-2}}{1.42*10^{-3}}=33.09\Omega " />
 
+**15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
+
+![imagen](https://user-images.githubusercontent.com/93798427/143319996-d8feb5ed-ee89-4391-8209-df08fac56e85.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320065-0a56760b-0947-4b7d-aa90-1e7d60d47fa8.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320132-18230181-49a7-4cc8-ae77-fa19fedbcfc7.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320193-a54dd1d4-f688-4f5c-b03e-6b5dbecdd273.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320347-703b409d-92d5-4305-b481-d384f8f6b7ee.png)
+
 **17. ¿Cuál es la resistencia total de doce resistores de 6.8 kΩ dispuestos en paralelo?**
 
 <img src="https://latex.codecogs.com/svg.image?\textit{Ya&space;que&space;las&space;resistencias&space;se&space;encuentran&space;en&space;paralelo&space;su&space;total&space;es&space;dividido&space;para&space;todas&space;las&space;resistencias&space;existentes}\\[10pt]R_{x}=\frac{6800\Omega&space;}{12}=567\Omega&space;&space;" title="\textit{Ya que las resistencias se encuentran en paralelo su total es dividido para todas las resistencias existentes}\\[10pt]R_{x}=\frac{6800\Omega }{12}=567\Omega " />
+
+**21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320803-49846a66-ca53-4aeb-9c07-0b88767b834d.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320424-f605d610-0e8c-40a6-96fc-c74b2ecb12b8.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320406-959d6c26-547a-420e-b6af-b0a5bc27433a.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320560-6524f273-265c-4e06-91e4-202b2bf630fb.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320618-bbc143a3-50ee-4f81-9444-a9f0cada03ed.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320716-dd5ddc95-70bd-4148-ae15-94a3741b4a5c.png)
 
 **23 . Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente su ministrada por la fuente?**
 
@@ -166,6 +313,29 @@ Los tres medidores están en serie, de modo que el voltaje a través de cada uno
  
 
 <img src="https://latex.codecogs.com/svg.image?\\[5pt]I_{3}=\frac{100V}{1200\Omega&space;}=0.08333A\to83.3mA\\[6pt]&space;R_{1}=\frac{100V}{0.05A}=2000\Omega&space;\to2k\Omega\\[6pt]I_{T}=250mA&plus;50mA=300mA\\[6pt]I_{T}=I_{1}&plus;I_{2}&plus;I_{3}\\[6pt]300mA=50mA&plus;I_{2}&plus;83.3mA\to&space;I_{2}=167mA\\[6pt]R_{2}=\frac{100V}{0.167A}=600\Omega&space;&space;&space;" title="\\[5pt]I_{3}=\frac{100V}{1200\Omega }=0.08333A\to83.3mA\\[6pt] R_{1}=\frac{100V}{0.05A}=2000\Omega \to2k\Omega\\[6pt]I_{T}=250mA+50mA=300mA\\[6pt]I_{T}=I_{1}+I_{2}+I_{3}\\[6pt]300mA=50mA+I_{2}+83.3mA\to I_{2}=167mA\\[6pt]R_{2}=\frac{100V}{0.167A}=600\Omega " />
+
+
+**33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320848-bf24ebd0-4e1e-4889-aa56-e5adc4922821.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320934-37b8d508-0563-4bdd-8f3c-75624a09761f.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143321221-4181087d-a854-4788-b907-5f03bd9f7338.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143321163-eec3084e-b8fa-44bf-adff-3eeecdf217b7.png)
+
+**b
+
+![imagen](https://user-images.githubusercontent.com/93798427/143321408-58f17502-e9ac-4391-ad25-151d2c130581.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143321510-11cbae84-536e-42c6-8e72-76b0c790728f.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143321580-a9ab5c0a-e842-4527-b336-e56616ec32c1.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143321630-14bc3d91-6a9b-4156-bd23-3c1996e2d99b.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143321684-e0de413b-901a-4cd3-8d1b-b1685e67dd28.png)
 
 **35. Determine todos los valores de resistor en la figura 6-83. RT = 773 Ω**
 
