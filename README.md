@@ -137,7 +137,7 @@ d) <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}=\frac{30.9}{0.06
 (c) <img src="https://latex.codecogs.com/svg.image?8-8=0V" title="8-8=0V" />
 
 
-**33. En el circuito de la figura 5-81, determine la resistencia de R4.**
+**33. En el circuito de la figura 5-81, determine la resistencia de R4. **
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143316789-4c1a2a2d-7aa2-4b6e-b628-bbd08ef0632e.png)
 
