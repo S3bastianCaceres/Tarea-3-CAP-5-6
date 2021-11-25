@@ -14,6 +14,13 @@
 
 <h3> Capitulo 5</h3>
 
+**3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68**
+
+![imagen](https://user-images.githubusercontent.com/93798427/143506825-3f766acd-dd34-4aa1-8277-696704a03e7d.png)
+
+170kOhms
+
+
 
 **5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior**
 
@@ -25,6 +32,16 @@ R1, R7, R8 y R10 están en serie.
 R2, R4, R6 y R11 están en serie.
 
 R3, R5, R9 y R12 están en serie.
+
+**9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
+de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de
+control. Trace el diagrama esquemático**
+
+Se presenta un circuito con tres lámparas en serie y con un solo interruptor.
+Se lo grafica a continuación:
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507027-80463f04-c97a-4e9c-b2ff-8f602d69e70e.png)
+
 
 **11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:**
 
@@ -196,6 +213,16 @@ Posición D: 7.2 V
 
 Si el valor es 6 y los demás valores son múltiplos de este entonces 2R=12V, 3R=18V, 4R=24V, 5R=30V
 
+**45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
+10 V hasta un máximo de 100 V dentro del 1% con una fuente de 1 a 120 V. El voltaje máximo debe
+ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
+ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA**
+
+Se lo grafica a continuación:
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507122-b5232e57-a63f-4af6-bf00-d1c9d5e47e59.png)
+
+
 **47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.**
 
 ![image](https://user-images.githubusercontent.com/93739242/143328756-0980fd0d-2039-43f6-a208-72a5a18ec539.png)
@@ -237,6 +264,16 @@ Voltaje de fuente total = 30.69 V
  
 VA = 14.82 V, VB = 12.97 V, VC = 12.64 V, VD = 9.34 V
 
+**57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles
+problemas**
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507234-570a1a13-0423-4e74-bd54-34a859753d59.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507262-99c4a255-f457-4f01-8bdd-89a77737156d.png)
+
+La tabla se encuentra correcta, al observar las conexiones presentadas en las gráficas.
+
+
 
 **59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo**
 
@@ -249,7 +286,17 @@ Sí. Hay un corto entre la clavija 4 y el lado superior de R11.
 
 <h3> Capitulo 6</h3>
 
+**3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66*
 
+![imagen](https://user-images.githubusercontent.com/93798427/143507493-30c2b8a0-43a5-49ca-b74e-82bfb4fd1840.png)
+
+En parelelo: 
+
+a-R1, R2, R5, R9, R10, R12
+
+b-R4, R6, R7, y R8
+
+c-R3 y R11
 
 **5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?**
 
@@ -306,6 +353,16 @@ Los tres medidores están en serie, de modo que el voltaje a través de cada uno
 
 <img src="https://latex.codecogs.com/svg.image?R_{1,2}=\frac{R_{1}*R_{2}}{R_{1}&plus;R_{2}}=\frac{33*33}{33&plus;33}=\frac{1089}{66}=16.5\Omega&space;\\[5pt]R_{(1,2),3}=\frac{R_{1,2}*R_{3}}{R_{1,2}&plus;R_{3}}=\frac{16.5*33}{16.5&plus;33}=\frac{544.5}{49.5}=11\Omega&space;\\[5pt]I_{T}=\frac{V_{T}}{R_{T}}=\frac{110}{11}=10A&space;" title="R_{1,2}=\frac{R_{1}*R_{2}}{R_{1}+R_{2}}=\frac{33*33}{33+33}=\frac{1089}{66}=16.5\Omega \\[5pt]R_{(1,2),3}=\frac{R_{1,2}*R_{3}}{R_{1,2}+R_{3}}=\frac{16.5*33}{16.5+33}=\frac{544.5}{49.5}=11\Omega \\[5pt]I_{T}=\frac{V_{T}}{R_{T}}=\frac{110}{11}=10A " />
 
+**27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Æ mostrado en la figura 6-75 antes de que el
+fusible de 0.5 A se funda?**
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507595-f7a87367-a07a-4d56-89b3-1f53af6ac355.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507660-fbf5f3b9-b936-4c93-ad61-d2826c2f41d0.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507736-3b335e56-66c9-4dfe-b09b-f653486be56e.png)
+
+
 **29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.**
 
 ![image](https://user-images.githubusercontent.com/93739242/143328718-91c2c672-86dd-40d6-ae38-da346c4bc55c.png)
@@ -344,12 +401,32 @@ Los tres medidores están en serie, de modo que el voltaje a través de cada uno
  
 <img src="https://latex.codecogs.com/svg.image?\\[5pt]I_{T}=I_{1}&plus;I_{2}&plus;I_{3}&plus;I_{4}\\[5pt]15.53mA=3.64mA&plus;6.67mA&plus;I_{3}&plus;3.08mA\to&space;I_{3}=2.14mA\\[5pt]V_{s}=I_{T}*R_{T}\to&space;V_{s}=15.53mA*773\Omega&space;=12V\\[5pt]R_{1}=\frac{12V}{0.00364A}=3296.7\Omega&space;\to&space;3.3k\Omega&space;\\[5pt]R_{2}=\frac{12V}{0.00667A}=1799.1\Omega&space;\to&space;1.8k\Omega&space;\\[5pt]R_{3}=\frac{12V}{0.00214A}=5607.4\Omega&space;\to&space;5.6k\Omega&space;\\[5pt]R_{4}=\frac{12V}{0.00308A}=3896.1\Omega&space;\to&space;3.9k\Omega&space;\\[5pt]&space;&space;" title="\\[5pt]I_{T}=I_{1}+I_{2}+I_{3}+I_{4}\\[5pt]15.53mA=3.64mA+6.67mA+I_{3}+3.08mA\to I_{3}=2.14mAV_{s}=I_{T}*R_{T}\to V_{s}=15.53mA*773\Omega =12V\\[5pt]R_{1}=\frac{12V}{0.00364A}=3296.7\Omega \to 3.3k\Omega \\[5pt]R_{2}=\frac{12V}{0.00667A}=1799.1\Omega \to 1.8k\Omega \\[5pt]R_{3}=\frac{12V}{0.00214A}=5607.4\Omega \to 5.6k\Omega \\[5pt]R_{4}=\frac{12V}{0.00308A}=3896.1\Omega \to 3.9k\Omega \\[5pt] " />
 
+**39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.**
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507785-2d9c4db9-04c8-452d-930d-574671b650cb.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507841-1aec4535-7b56-4ab9-8752-f1aa9ca50543.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507954-f8c77954-afe5-4121-b2b2-7a7ce600ce41.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507841-1aec4535-7b56-4ab9-8752-f1aa9ca50543.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507924-8d88d38d-d7fc-4096-90cf-b1ea22128089.png)
+
+
 **41. Encuentre los valores de las cantidades no especificadas en la figura 6-8.**
 
 ![image](https://user-images.githubusercontent.com/93739242/143328696-7a51e4d3-7de3-4030-ac3e-5f3848ef1abe.png)
 
  
 <img src="https://latex.codecogs.com/svg.image?\\[5pt]P_{T}=V_{S}*I_{T}\to&space;V_{S}=\frac{2W}{0.2A}=10V\\[5pt]P_{T}=P_{1}&plus;P_{2}\to&space;P_{1}=2W-0.75W=1.25W\\[5pt]P=\frac{V^{2}}{R}\to&space;R=\frac{V^{2}}{P}\\[5pt]R_{1}=\frac{(10V)^{2}}{1.25W}=80\Omega&space;\\[5pt]R_{2}=\frac{(10V)^{2}}{0.75W}=133\Omega&space;\\[5pt]V=I*R&space;\to&space;I=\frac{V}{R}\\[5pt]I_{1}=\frac{10V}{80\Omega&space;}=0.125A&space;\to&space;125mA&space;\\[5pt]I_{2}=\frac{10V}{133\Omega&space;}=0.075A&space;\to&space;75mA&space;\\[5pt]&space;&space;" title="\\[5pt]P_{T}=V_{S}*I_{T}\to V_{S}=\frac{2W}{0.2A}=10V\\[5pt]P_{T}=P_{1}+P_{2}\to P_{1}=2W-0.75W=1.25W\\[5pt]P=\frac{V^{2}}{R}\to R=\frac{V^{2}}{P}\\[5pt]R_{1}=\frac{(10V)^{2}}{1.25W}=80\Omega \\[5pt]R_{2}=\frac{(10V)^{2}}{0.75W}=133\Omega \\[5pt]V=I*R \to I=\frac{V}{R}\\[5pt]I_{1}=\frac{10V}{80\Omega }=0.125A \to 125mA \\[5pt]I_{2}=\frac{10V}{133\Omega }=0.075A \to 75mA \\[5pt] " />
+
+**45. ¿Qué está mal con el circuito de la figura 6-86?**
+
+![imagen](https://user-images.githubusercontent.com/93798427/143508001-ec8fc152-0122-465b-9e16-c7ea0bc9aced.png)
+
+La resistencia R3 está abierta.
+
 
 **47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.**
  
