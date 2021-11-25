@@ -3,6 +3,29 @@
 <h3>1. OBJETIVOS</h3>
 
 
+Objetivos Generales :
+
+
+-	Reconocer un circuito en serie y las componentes del mismo, y poder determinar su corriente que pasa a través del mismo, así como también la resistencia total.
+
+
+-	Calcular tanto la resistencia, voltaje o corriente que presentan los elementos del circuito en serie mediante la ley de ohm.
+
+
+-	Emplear la ley de voltajes de Kirchhoff y saber calcular la potencia en un circuito.
+
+
+-	Reconocer un circuito en paralelo y calcular los voltajes que hay en cada rama.
+
+
+-	Calcular la resistencia ya sea total o presente en cada elemento del circuito, así como también el voltaje o la corriente mediante la ley de ohm o la ley de corrientes de Kirchhoff
+
+
+-	Determinar la potencia en el circuito en paralelo. 
+
+
+
+
 <h3>2. MARCO TEÓRICO (RESUMEN)</h3>
 
 <h3> Capitulo 5</h3>
