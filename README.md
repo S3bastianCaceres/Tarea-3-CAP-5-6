@@ -47,7 +47,7 @@ R2, R4, R6 y R11 están en serie.
 
 R3, R5, R9 y R12 están en serie.
 
-**11. Encuentre la resistencia total de los siguientes grupos de resistores en serie: **
+**11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:**
 
 FORMULA 
 
