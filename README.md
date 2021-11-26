@@ -114,7 +114,7 @@ FORMULA
 **21. Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.
 (a) ¿Cuál es la corriente en el circuito?
 (b) ¿Cuál es el voltaje a través de cada resistor?
-(c) ¿Cuál es el valor nominal de potencia de los resistores?
+(c) ¿Cuál es el valor nominal de potencia de los resistores?**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143317837-f11d5a67-ebc3-42fc-9b7c-271daad9fc6e.png)
 
