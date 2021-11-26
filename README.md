@@ -493,6 +493,16 @@ R8 abierto: R = 1 MΩ|| 1.8 MΩ|| 680 kΩ =330 kΩ
 
 
 <h3>5.CONCLUSIONES</h3>
+-	Se logró identificar un circuito en paralelo, así como un circuito en serie y los componentes que lo integran.
+
+
+-	Se realizaron los diferentes cálculos de acuerdo a lo que nos pedía el ejercicio de forma favorable, teniendo claro la teoría anterior como lo es la ley de ohm y la ley de corrientes y voltajes de Kirchhoff.
+
+
+-	Identificamos los errores que presentaban algunos circuitos y que ya en proyectos físicos llegarían a ser un problema.
+
+
+-	Calculamos la potencia tanto en circuitos en serie como en paralelo mediante fórmulas que aprendimos en capítulos anteriores 
 
 
 
