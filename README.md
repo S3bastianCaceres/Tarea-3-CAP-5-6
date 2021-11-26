@@ -106,6 +106,14 @@ R2, R4, R6 y R11 están en serie.
 
 R3, R5, R9 y R12 están en serie.
 
+
+**7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?**
+
+[![2.png](https://i.postimg.cc/d1r3G9v9/2.png)](https://postimg.cc/2bjCDh1q)
+
+La corriente que circula por el circuito en serie es de 5mA
+
+
 **9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
 de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de
 control. Trace el diagrama esquemático**
@@ -114,12 +122,6 @@ Se presenta un circuito con tres lámparas en serie y con un solo interruptor.
 Se lo grafica a continuación:
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143507027-80463f04-c97a-4e9c-b2ff-8f602d69e70e.png)
-
-**7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?**
-
-[![2.png](https://i.postimg.cc/d1r3G9v9/2.png)](https://postimg.cc/2bjCDh1q)
-
-La corriente que circula por el circuito en serie es de 5mA
 
 
 **11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:**
@@ -361,7 +363,7 @@ Posición C: 5.4 V
 
 Posición D: 7.2 V
 
-***37. La resistencia total de un circuito es de 560 ohms. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 ohms que forma parte de la resistencia total en serie?**
+**37. La resistencia total de un circuito es de 560 ohms. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 ohms que forma parte de la resistencia total en serie?**
 
 *Aplicación de una regla de 3:
 
@@ -394,14 +396,6 @@ Posición D: 7.2 V
 
 Si el valor es 6 y los demás valores son múltiplos de este entonces 2R=12V, 3R=18V, 4R=24V, 5R=30V
 
-**45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
-10 V hasta un máximo de 100 V dentro del 1% con una fuente de 1 a 120 V. El voltaje máximo debe
-ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
-ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA**
-
-Se lo grafica a continuación:
-
-![imagen](https://user-images.githubusercontent.com/93798427/143507122-b5232e57-a63f-4af6-bf00-d1c9d5e47e59.png)
 
 **43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?**
 
@@ -423,6 +417,14 @@ Se lo grafica a continuación:
 
 <img src="https://latex.codecogs.com/svg.image?V=(I)(R)=(0.0017A)(10000\Omega)=17.86V" title="V=(I)(R)=(0.0017A)(10000\Omega)=17.86V" />
 
+**45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
+10 V hasta un máximo de 100 V dentro del 1% con una fuente de 1 a 120 V. El voltaje máximo debe
+ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
+ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA**
+
+Se lo grafica a continuación:
+
+![imagen](https://user-images.githubusercontent.com/93798427/143507122-b5232e57-a63f-4af6-bf00-d1c9d5e47e59.png)
 
 **47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.**
 
@@ -501,6 +503,14 @@ Voltaje de fuente total = 30.69 V
  
 VA = 14.82 V, VB = 12.97 V, VC = 12.64 V, VD = 9.34 V
 
+**55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.**
+
+[![6.png](https://i.postimg.cc/59HdKtFZ/6.png)](https://postimg.cc/3WHcdY1B)
+
+a) R4 esta abierto
+
+b) A y B estan en corto
+
 **57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles
 problemas**
 
@@ -510,13 +520,7 @@ problemas**
 
 La tabla se encuentra correcta, al observar las conexiones presentadas en las gráficas.
 
-**55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.**
 
-[![6.png](https://i.postimg.cc/59HdKtFZ/6.png)](https://postimg.cc/3WHcdY1B)
-
-a) R4 esta abierto
-
-b) A y B estan en corto
 
 **59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo**
 
@@ -551,13 +555,6 @@ c-R3 y R11
 
 ![image](https://user-images.githubusercontent.com/93739242/143328738-96fb145a-83d8-493c-bfb5-8f6037f0904a.png)
 
-**9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
-300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
-
-![imagen](https://user-images.githubusercontent.com/93798427/143319929-c2224e96-837f-4f8e-b311-6d704f096d29.png)
-
- 
-Los tres medidores están en serie, de modo que el voltaje a través de cada uno es igual al voltaje de fuente aplicado. El voltaje a través de los medidores es 100V
 
 **7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?**
 
@@ -585,6 +582,14 @@ R2= 15V
 R3= 0
 R4= 0
 
+**9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
+300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?**
+
+![imagen](https://user-images.githubusercontent.com/93798427/143319929-c2224e96-837f-4f8e-b311-6d704f096d29.png)
+
+ 
+Los tres medidores están en serie, de modo que el voltaje a través de cada uno es igual al voltaje de fuente aplicado. El voltaje a través de los medidores es 100V
+
 **11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.**
 
 ![image](https://user-images.githubusercontent.com/93739242/143328731-6639b74a-5046-414c-806e-e4ca7b8f6eed.png)
@@ -593,19 +598,8 @@ R4= 0
 
 <img src="https://latex.codecogs.com/svg.image?I_{T}=I_{1}&plus;I_{2}&plus;I_{3}&plus;I_{4}\\[5pt]I_{4}=I_{T}-I_{1}-I_{2}-I_{3}\\[5pt]I_{4}=5.03-1-2.14-0.47\\[5pt]I_{4}=1.42mA\\[5pt]V_{1}=I_{1}*R_{1}=(1*10^{-3}A)(47\Omega&space;)\\[5pt]\textit{El&space;voltaje&space;es&space;el&space;mismo&space;en&space;todas&space;las&space;resistencias}\\[5pt]R=\frac{V}{I}\\[5pt]R_{2}=\frac{4.7*10^{-2}}{2.14*10^{-3}}=22\Omega&space;\\[5pt]R_{3}=\frac{4.7*10^{-2}}{0.470*10^{-3}}=100\Omega&space;\\[5pt]R_{4}=\frac{4.7*10^{-2}}{1.42*10^{-3}}=33.09\Omega&space;&space;" title="I_{T}=I_{1}+I_{2}+I_{3}+I_{4}\\[5pt]I_{4}=I_{T}-I_{1}-I_{2}-I_{3}\\[5pt]I_{4}=5.03-1-2.14-0.47\\[5pt]I_{4}=1.42mA\\[5pt]V_{1}=I_{1}*R_{1}=(1*10^{-3}A)(47\Omega )\\[5pt]\textit{El voltaje es el mismo en todas las resistencias}\\[5pt]R=\frac{V}{I}\\[5pt]R_{2}=\frac{4.7*10^{-2}}{2.14*10^{-3}}=22\Omega \\[5pt]R_{3}=\frac{4.7*10^{-2}}{0.470*10^{-3}}=100\Omega \\[5pt]R_{4}=\frac{4.7*10^{-2}}{1.42*10^{-3}}=33.09\Omega " />
 
-**15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
 
-![imagen](https://user-images.githubusercontent.com/93798427/143319996-d8feb5ed-ee89-4391-8209-df08fac56e85.png)
-
-![imagen](https://user-images.githubusercontent.com/93798427/143320065-0a56760b-0947-4b7d-aa90-1e7d60d47fa8.png)
-
-![imagen](https://user-images.githubusercontent.com/93798427/143320132-18230181-49a7-4cc8-ae77-fa19fedbcfc7.png)
-
-![imagen](https://user-images.githubusercontent.com/93798427/143320193-a54dd1d4-f688-4f5c-b03e-6b5dbecdd273.png)
-
-![imagen](https://user-images.githubusercontent.com/93798427/143320347-703b409d-92d5-4305-b481-d384f8f6b7ee.png)
-
-*** 13. La resistencia total de un circuito en paralelo es de 25 ohms. ¿Cuál es la corriente a través de un resistor de 220 ohms que forma parte de este circuito si la corriente total es de 100 mA?**
+**13. La resistencia total de un circuito en paralelo es de 25 ohms. ¿Cuál es la corriente a través de un resistor de 220 ohms que forma parte de este circuito si la corriente total es de 100 mA?**
 
 *DATOS
 
@@ -625,11 +619,31 @@ R4= 0
 
 <img src="https://latex.codecogs.com/svg.image?I_{R}=\frac{V_{total}}{R}=\frac{2.5V}{220\Omega}=0.01136A=11.36mA" title="I_{R}=\frac{V_{total}}{R}=\frac{2.5V}{220\Omega}=0.01136A=11.36mA" />
 
+**15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:**
+
+![imagen](https://user-images.githubusercontent.com/93798427/143319996-d8feb5ed-ee89-4391-8209-df08fac56e85.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320065-0a56760b-0947-4b7d-aa90-1e7d60d47fa8.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320132-18230181-49a7-4cc8-ae77-fa19fedbcfc7.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320193-a54dd1d4-f688-4f5c-b03e-6b5dbecdd273.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143320347-703b409d-92d5-4305-b481-d384f8f6b7ee.png)
+
 **17. ¿Cuál es la resistencia total de doce resistores de 6.8 kΩ dispuestos en paralelo?**
 
 <img src="https://latex.codecogs.com/svg.image?\textit{Ya&space;que&space;las&space;resistencias&space;se&space;encuentran&space;en&space;paralelo&space;su&space;total&space;es&space;dividido&space;para&space;todas&space;las&space;resistencias&space;existentes}\\[10pt]R_{x}=\frac{6800\Omega&space;}{12}=567\Omega&space;&space;" title="\textit{Ya que las resistencias se encuentran en paralelo su total es dividido para todas las resistencias existentes}\\[10pt]R_{x}=\frac{6800\Omega }{12}=567\Omega " />
 
-**21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+
+
+**19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18**
+
+**-Ejercicio: 18. Tres grupos, uno de cinco resistores de 470 ohms, otro de diez resistores de 100 ohms, y uno más de dos resistores de 100 ohms están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?**
+
+34.6 ohms
+
+**21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143320803-49846a66-ca53-4aeb-9c07-0b88767b834d.png)
 
@@ -643,13 +657,6 @@ R4= 0
 ![imagen](https://user-images.githubusercontent.com/93798427/143320618-bbc143a3-50ee-4f81-9444-a9f0cada03ed.png)
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143320716-dd5ddc95-70bd-4148-ae15-94a3741b4a5c.png)
-
-**19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18**
-
-**-Ejercicio: 18. Tres grupos, uno de cinco resistores de 470 ohms, otro de diez resistores de 100 ohms, y uno más de dos resistores de 100 ohms están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?**
-
-34.6 ohms
-
 
 **23 . Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente su ministrada por la fuente?**
 
@@ -702,7 +709,7 @@ POSICIÓN C:
 (2.25+4.75)mA=7mA
 
 
-**33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81
+**33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143320848-bf24ebd0-4e1e-4889-aa56-e5adc4922821.png)
 
@@ -712,7 +719,7 @@ POSICIÓN C:
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143321163-eec3084e-b8fa-44bf-adff-3eeecdf217b7.png)
 
-**b
+**b**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143321408-58f17502-e9ac-4391-ad25-151d2c130581.png)
 
@@ -731,7 +738,7 @@ POSICIÓN C:
  
 <img src="https://latex.codecogs.com/svg.image?\\[5pt]I_{T}=I_{1}&plus;I_{2}&plus;I_{3}&plus;I_{4}\\[5pt]15.53mA=3.64mA&plus;6.67mA&plus;I_{3}&plus;3.08mA\to&space;I_{3}=2.14mA\\[5pt]V_{s}=I_{T}*R_{T}\to&space;V_{s}=15.53mA*773\Omega&space;=12V\\[5pt]R_{1}=\frac{12V}{0.00364A}=3296.7\Omega&space;\to&space;3.3k\Omega&space;\\[5pt]R_{2}=\frac{12V}{0.00667A}=1799.1\Omega&space;\to&space;1.8k\Omega&space;\\[5pt]R_{3}=\frac{12V}{0.00214A}=5607.4\Omega&space;\to&space;5.6k\Omega&space;\\[5pt]R_{4}=\frac{12V}{0.00308A}=3896.1\Omega&space;\to&space;3.9k\Omega&space;\\[5pt]&space;&space;" title="\\[5pt]I_{T}=I_{1}+I_{2}+I_{3}+I_{4}\\[5pt]15.53mA=3.64mA+6.67mA+I_{3}+3.08mA\to I_{3}=2.14mAV_{s}=I_{T}*R_{T}\to V_{s}=15.53mA*773\Omega =12V\\[5pt]R_{1}=\frac{12V}{0.00364A}=3296.7\Omega \to 3.3k\Omega \\[5pt]R_{2}=\frac{12V}{0.00667A}=1799.1\Omega \to 1.8k\Omega \\[5pt]R_{3}=\frac{12V}{0.00214A}=5607.4\Omega \to 5.6k\Omega \\[5pt]R_{4}=\frac{12V}{0.00308A}=3896.1\Omega \to 3.9k\Omega \\[5pt] " />
 
-***37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kohms de escala completa entre la derivación para realizar la medición**
+**37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kohms de escala completa entre la derivación para realizar la medición**
 
 
 (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una
@@ -838,7 +845,7 @@ R7 abierto: R = 1 MΩ|| 1.8 MΩ|| 510 kΩ =284 kΩ
 
 R8 abierto: R = 1 MΩ|| 1.8 MΩ|| 680 kΩ =330 kΩ
 
-*** 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:**
+**49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:**
 
 [![4.png](https://i.postimg.cc/ZqjQctfV/4.png)](https://postimg.cc/nsjTF5fD)
 
