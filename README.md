@@ -2,12 +2,12 @@
  
 <h3>1. OBJETIVOS</h3>
 
-Objetivo General:
+**Objetivo General:**
 
 Analizar e identificar las caracteristicas unicas tanto para los circuitos en serie como de los circuitos en paralelo con el fin de reconocerlos en la practica y utilizar el metodo apropiado de resolución necesario para cada uno, a través del estudio de los capitulos 5 y 6 del libro de Floyd.
 
 
-Objetivos Específicos:
+**Objetivos Específicos:**
 
 
 -	Reconocer un circuito en serie y las componentes del mismo, y poder determinar su corriente que pasa a través del mismo, así como también la resistencia total.
