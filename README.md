@@ -76,6 +76,13 @@ Objetivos Específicos:
 
 <h3> Capitulo 5</h3>
 
+**1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B. figura 1**
+
+[![1.png](https://i.postimg.cc/k5hKTs03/1.png)](https://postimg.cc/Z9pWR8YV)
+
+[![1-1.png](https://i.postimg.cc/QdhJMsvf/1-1.png)](https://postimg.cc/Mv3QPk6B)
+
+
 **3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143506825-3f766acd-dd34-4aa1-8277-696704a03e7d.png)
@@ -104,6 +111,12 @@ Se lo grafica a continuación:
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143507027-80463f04-c97a-4e9c-b2ff-8f602d69e70e.png)
 
+**7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?**
+
+[![2.png](https://i.postimg.cc/d1r3G9v9/2.png)](https://postimg.cc/2bjCDh1q)
+
+La corriente que circula por el circuito en serie es de 5mA
+
 
 **11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:**
 
@@ -128,6 +141,9 @@ FORMULA
 
 <img src="https://latex.codecogs.com/svg.image?1000000&plus;470000&plus;1000&plus;2200000=3671000\Omega\to&space;3.671&space;M\Omega&space;&space;" title="1000000+470000+1000+2200000=3671000\Omega\to 3.671 M\Omega " />
 
+**13. ¿Cuál es la resistencia total de doce resistores de 5.6 kohms dispuestos en serie?**
+
+R(total)=12(5.6 kohms)=67.2 kohms
 
 **15. Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?**
 
@@ -148,7 +164,24 @@ FORMULA
  ![image](https://user-images.githubusercontent.com/93739242/143328825-662af141-eced-4aae-b799-72b65090c062.png)
 
  
+ 
 <img src="https://latex.codecogs.com/svg.image?1000&plus;5600&plus;2200&plus;4.7&plus;10&plus;12&plus;1&plus;1000000&plus;560000&plus;5600000&plus;680000&plus;10000000=17848827.7\Omega\to&space;17.8&space;M\Omega&space;&space;" title="1000+5600+2200+4.7+10+12+1+1000000+560000+5600000+680000+10000000=17848827.7\Omega\to 17.8 M\Omega " />
+
+**19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?**
+
+[![3.png](https://i.postimg.cc/Xqgvz7rG/3.png)](https://postimg.cc/YLhk47fM)
+
+a)
+
+<img src="https://latex.codecogs.com/svg.image?R_{total}=(2.2&plus;5.2&plus;1)k\Omega&space;=8.8k\Omega&space;" title="R_{total}=(2.2+5.2+1)k\Omega =8.8k\Omega " />
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}=\frac{5.5V}{8.8k\Omega}=625\mu&space;A&space;" title="I=\frac{V}{R}=\frac{5.5V}{8.8k\Omega}=625\mu A " />
+
+b)
+
+<img src="https://latex.codecogs.com/svg.image?R_{total}=(560&plus;2.2\times&space;10^{6}&plus;4\times&space;10^{6})k\Omega=3200560k\Omega&space;" title="R_{total}=(560+2.2\times 10^{6}+4\times 10^{6})k\Omega=3200560k\Omega " />
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}=\frac{16V}{3200560K\Omega}=4.9\mu&space;A&space;" title="I=\frac{V}{R}=\frac{16V}{3200560K\Omega}=4.9\mu A " />
 
 **21. Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.**
 
@@ -204,6 +237,51 @@ c) <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}=\frac{6.58}{0.06
 
 d) <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}=\frac{30.9}{0.0658}=470\Omega" title="R=\frac{V}{I}=\frac{30.9}{0.0658}=470\Omega" />
 
+**25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.**
+
+
+[![3-1.png](https://i.postimg.cc/zvfmqJdR/3-1.png)](https://postimg.cc/wyn4VdY6)
+
+**(a) ¿Cuál es la resistencia de R4?**
+
+*Ecuación 1 -Resistencia total:
+
+<img src="https://latex.codecogs.com/svg.image?R_{total}=220\Omega&space;&plus;470\Omega&space;&plus;510\Omega&space;&plus;R_{4}&space;" title="R_{total}=220\Omega +470\Omega +510\Omega +R_{4} " />
+
+*Ecuación 2 - Resistencia total:
+
+<img src="https://latex.codecogs.com/svg.image?R_{total}=\frac{V}{I}=\frac{12V}{0.00784A}=1530.61\Omega&space;" title="R_{total}=\frac{V}{I}=\frac{12V}{0.00784A}=1530.61\Omega " />
+
+*Reemplazar ecuación 2 en 1:
+
+<img src="https://latex.codecogs.com/svg.image?1530.61\Omega&space;-220\Omega&space;-470\Omega&space;-510\Omega&space;=R_{4}\Rightarrow&space;R_{4}=330.61\Omega&space;&space;" title="1530.61\Omega -220\Omega -470\Omega -510\Omega =R_{4}\Rightarrow R_{4}=330.61\Omega " />
+
+**(b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?**
+
+*POSICION B
+
+<img src="https://latex.codecogs.com/svg.image?R_{B}=R_{total}-220\Omega=1310.61\Omega" title="R_{B}=R_{total}-220\Omega=1310.61\Omega" />
+
+<img src="https://latex.codecogs.com/svg.image?I_{b}=\frac{12V}{1310.61\Omega}=0.009A=9mA&space;" title="I_{b}=\frac{12V}{1310.61\Omega}=0.009A=9mA " />
+
+
+*POSICION C
+
+<img src="https://latex.codecogs.com/svg.image?R_{C}=R_{total}-220\Omega-470\Omega=840.61\Omega" title="R_{C}=R_{total}-220\Omega-470\Omega=840.61\Omega" />
+
+<img src="https://latex.codecogs.com/svg.image?I_{C}=\frac{12V}{840.61\Omega}=0.014A=14mA" title="I_{C}=\frac{12V}{840.61\Omega}=0.014A=14mA" />
+
+*POSICION D
+
+<img src="https://latex.codecogs.com/svg.image?R_{4}=330.61\Omega" title="R_{4}=330.61\Omega" />
+
+<img src="https://latex.codecogs.com/svg.image?I_{D}=\frac{12V}{330.61\Omega}=0.036A=36mA" title="I_{D}=\frac{12V}{330.61\Omega}=0.036A=36mA" />
+
+
+**(c) ¿Se fundirá un fusible de 1/4 A en cualquier posición del interruptor?**
+
+No
+
 **27.Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143318210-86046ca1-5276-4bbc-bb32-5a63aeaeda98.png)
@@ -223,6 +301,29 @@ d) <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}=\frac{30.9}{0.06
 
 (c) <img src="https://latex.codecogs.com/svg.image?8-8=0V" title="8-8=0V" />
 
+**31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?**
+
+*DATOS
+
+<img src="https://latex.codecogs.com/svg.image?V_{total}=20V" title="V_{total}=20V" />
+
+<img src="https://latex.codecogs.com/svg.image?V_{R_{1}}=1.5V" title="V_{R_{1}}=1.5V" />
+
+<img src="https://latex.codecogs.com/svg.image?V_{R_{2}}=5.5V" title="V_{R_{2}}=5.5V" />
+
+<img src="https://latex.codecogs.com/svg.image?V_{R_{3}}=3V" title="V_{R_{3}}=3V" />
+
+<img src="https://latex.codecogs.com/svg.image?V_{R_{4}}=6V" title="V_{R_{4}}=6V" />
+
+*Ecuación  1:
+
+<img src="https://latex.codecogs.com/svg.image?V_{R_{total}}=V_{R_{1}}&plus;V_{R_{2}}&plus;V_{R_{3}}&plus;V_{R_{4}}&plus;V_{R_{5}}" title="V_{R_{total}}=V_{R_{1}}+V_{R_{2}}+V_{R_{3}}+V_{R_{4}}+V_{R_{5}}" />
+
+*Reemplazar datos en 1:
+
+<img src="https://latex.codecogs.com/svg.image?V_{R_{total}}=1.5V&plus;5.5V&plus;3V&plus;6V&plus;V_{R_{5}}" title="V_{R_{total}}=1.5V+5.5V+3V+6V+V_{R_{5}}" />
+
+<img src="https://latex.codecogs.com/svg.image?20V-1.5V-5.5V-3V-6V=V_{R_{5}}\Rightarrow&space;V_{R_{5}}=4V" title="20V-1.5V-5.5V-3V-6V=V_{R_{5}}\Rightarrow V_{R_{5}}=4V" />
 
 **33. En el circuito de la figura 5-81, determine la resistencia de R4. **
 
@@ -255,6 +356,12 @@ Posición B: 4.5 V
 Posición C: 5.4 V 
 
 Posición D: 7.2 V
+
+***37. La resistencia total de un circuito es de 560 ohms. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 ohms que forma parte de la resistencia total en serie?**
+
+*Aplicación de una regla de 3:
+
+<img src="https://latex.codecogs.com/svg.image?560\Omega=100%\Rightarrow&space;27\Omega=4.82%&space;" title="560\Omega=100%\Rightarrow 27\Omega=4.82% " />
 
 **39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a)**
 
@@ -292,6 +399,26 @@ Se lo grafica a continuación:
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143507122-b5232e57-a63f-4af6-bf00-d1c9d5e47e59.png)
 
+**43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?**
+
+[![4.png](https://i.postimg.cc/wv0PfC6x/4.png)](https://postimg.cc/XGBQXDGt)
+
+*En R1:
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}=\frac{10V}{5600\Omega}=0.0017A" title="I=\frac{V}{R}=\frac{10V}{5600\Omega}=0.0017A" />
+
+*En R2:
+
+<img src="https://latex.codecogs.com/svg.image?V=(I)(R)=(0.0017A)(1000\Omega)=1.78V" title="V=(I)(R)=(0.0017A)(1000\Omega)=1.78V" />
+
+*En R3:
+
+<img src="https://latex.codecogs.com/svg.image?V=(I)(R)=(0.0017A)(560\Omega)=1V" title="V=(I)(R)=(0.0017A)(560\Omega)=1V" />
+
+*En R4:
+
+<img src="https://latex.codecogs.com/svg.image?V=(I)(R)=(0.0017A)(10000\Omega)=17.86V" title="V=(I)(R)=(0.0017A)(10000\Omega)=17.86V" />
+
 
 **47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.**
 
@@ -305,6 +432,42 @@ Voltaje de fuente total = 30.69 V
 <img src="https://latex.codecogs.com/svg.image?R_{T}=R_{1}&plus;R_{2}&plus;R_{3}R_{4}=5600\Omega&space;&plus;1000\Omega&plus;560\Omega&space;&plus;10000\Omega&space;=17160\Omega&space;\mapsto&space;17.16k\Omega&space;" title="R_{T}=R_{1}+R_{2}+R_{3}R_{4}=5600\Omega +1000\Omega+560\Omega +10000\Omega =17160\Omega \mapsto 17.16k\Omega " />
 
 <img src="https://latex.codecogs.com/svg.image?P_{T}=\frac{V^{2}_{s}}{R_{T}}=\frac{(30.69V)^{2}}{17160\Omega&space;}=0.0549W\to&space;54.9mW" title="P_{T}=\frac{V^{2}_{s}}{R_{T}}=\frac{(30.69V)^{2}}{17160\Omega }=0.0549W\to 54.9mW" />
+
+**49. Encuentre RT en la figura 5-89**
+
+[![5.png](https://i.postimg.cc/tgD2pF82/5.png)](https://postimg.cc/jWwzhnx7)
+
+*En R1:
+
+<img src="https://latex.codecogs.com/svg.image?R_{1}=5600000\Omega" title="R_{1}=5600000\Omega" />
+
+<img src="https://latex.codecogs.com/svg.image?V=12V" title="V=12V" />
+
+-Intensidad de corriente presente en el circuito en serie
+
+<img src="https://latex.codecogs.com/svg.image?I_{total}=\frac{12V}{5600000}=0.000002142A=2.14\mu&space;A" title="I_{total}=\frac{12V}{5600000}=0.000002142A=2.14\mu A" />
+
+*En R2:
+
+<img src="https://latex.codecogs.com/svg.image?V=4.8V" title="V=4.8V" />
+
+-Resistencia 2 - por ley de ohm
+
+<img src="https://latex.codecogs.com/svg.image?R_{2}=\frac{V}{I}=\frac{4.8V}{2.14\mu&space;A}=2240000\Omega=2.24&space;M\Omega" title="R_{2}=\frac{V}{I}=\frac{4.8V}{2.14\mu A}=2240000\Omega=2.24 M\Omega" />
+
+*En R3:
+
+<img src="https://latex.codecogs.com/svg.image?P=21.5\mu&space;W" title="P=21.5\mu W" />
+
+-Fórmula de la potencia:
+
+<img src="https://latex.codecogs.com/svg.image?P=(I^{2})(R)\Rightarrow&space;R=\frac{P}{I^{2}}" title="P=(I^{2})(R)\Rightarrow R=\frac{P}{I^{2}}" />
+
+<img src="https://latex.codecogs.com/svg.image?R=\frac{21.5\mu&space;W}{(2.14\mu&space;A)^{2}}=4.69M\Omega" title="R=\frac{21.5\mu W}{(2.14\mu A)^{2}}=4.69M\Omega" />
+
+*Suma de las resistencias presentes en el circuito
+
+<img src="https://latex.codecogs.com/svg.image?R_{total}=5.6M\Omega&plus;2.24M\Omega&plus;4.69M\Omega=12.53M\Omega" title="R_{total}=5.6M\Omega+2.24M\Omega+4.69M\Omega=12.53M\Omega" />
 
 
 **51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.**
@@ -343,7 +506,13 @@ problemas**
 
 La tabla se encuentra correcta, al observar las conexiones presentadas en las gráficas.
 
+**55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.**
 
+[![6.png](https://i.postimg.cc/59HdKtFZ/6.png)](https://postimg.cc/3WHcdY1B)
+
+a) R4 esta abierto
+
+b) A y B estan en corto
 
 **59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo**
 
