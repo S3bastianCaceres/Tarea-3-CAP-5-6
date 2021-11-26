@@ -111,10 +111,16 @@ FORMULA
  
 <img src="https://latex.codecogs.com/svg.image?1000&plus;5600&plus;2200&plus;4.7&plus;10&plus;12&plus;1&plus;1000000&plus;560000&plus;5600000&plus;680000&plus;10000000=17848827.7\Omega\to&space;17.8&space;M\Omega&space;&space;" title="1000+5600+2200+4.7+10+12+1+1000000+560000+5600000+680000+10000000=17848827.7\Omega\to 17.8 M\Omega " />
 
-**21. Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.
-(a) ¿Cuál es la corriente en el circuito?
-(b) ¿Cuál es el voltaje a través de cada resistor?
-(c) ¿Cuál es el valor nominal de potencia de los resistores?**
+**21. Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.**
+
+
+**(a) ¿Cuál es la corriente en el circuito?**
+
+**(b) ¿Cuál es el voltaje a través de cada resistor?**
+
+**(c) ¿Cuál es el valor nominal de potencia de los resistores?**
+
+**a**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143317837-f11d5a67-ebc3-42fc-9b7c-271daad9fc6e.png)
 
@@ -127,7 +133,7 @@ FORMULA
 ![imagen](https://user-images.githubusercontent.com/93798427/143317984-358e4828-9e74-497a-aa80-cba0f1896e49.png)
 
 
-**b
+**b**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143318022-33188500-ace2-4192-bb46-9b56ccaa86b4.png)
 
@@ -136,7 +142,7 @@ FORMULA
 ![imagen](https://user-images.githubusercontent.com/93798427/143318072-3fd61e67-9df0-40e8-96ca-f82f2481b2c9.png)
 
 
-**c
+**c**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143318094-7f484a23-2ebe-4375-94a8-4b48c7422aab.png)
 
@@ -144,8 +150,10 @@ FORMULA
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143318161-d9f63b2d-86ef-4ed0-ace4-65d376c4fbcd.png)
 
+
 **23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?**
- 
+
+
 ![image](https://user-images.githubusercontent.com/93739242/143328808-9f764ddb-4938-445c-b6d1-8320c1d620a0.png)
 
 
