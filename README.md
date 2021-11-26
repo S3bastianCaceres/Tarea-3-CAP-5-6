@@ -3,7 +3,7 @@
 <h3>1. OBJETIVOS</h3>
 
 
-Objetivos Generales :
+Objetivos Específicos:
 
 
 -	Reconocer un circuito en serie y las componentes del mismo, y poder determinar su corriente que pasa a través del mismo, así como también la resistencia total.
