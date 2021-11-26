@@ -493,6 +493,7 @@ R8 abierto: R = 1 MΩ|| 1.8 MΩ|| 680 kΩ =330 kΩ
 
 
 <h3>5.CONCLUSIONES</h3>
+
 -	Se logró identificar un circuito en paralelo, así como un circuito en serie y los componentes que lo integran.
 
 
