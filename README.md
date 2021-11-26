@@ -525,6 +525,12 @@ Sí. Hay un corto entre la clavija 4 y el lado superior de R11.
 
 <h3> Capitulo 6</h3>
 
+**1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.**
+
+[![1.png](https://i.postimg.cc/507ZxdL6/1.png)](https://postimg.cc/62ZH0PHX)
+
+[![1-1.png](https://i.postimg.cc/2yZQmddL/1-1.png)](https://postimg.cc/jnRw47FR)
+
 **3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66*
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143507493-30c2b8a0-43a5-49ca-b74e-82bfb4fd1840.png)
@@ -549,6 +555,32 @@ c-R3 y R11
  
 Los tres medidores están en serie, de modo que el voltaje a través de cada uno es igual al voltaje de fuente aplicado. El voltaje a través de los medidores es 100V
 
+**7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?**
+
+[![2.png](https://i.postimg.cc/j2DB2g4v/2.png)](https://postimg.cc/GT1XSjNs)
+
+*Posición A
+
+R1= 15V
+R2= 0
+R3= 0
+R4= 15V
+
+*Posición B
+
+R1= 15V
+R2= 0 
+R3= 15V
+R4= 0
+
+
+*Posicion C
+
+R1= 15V
+R2= 15V
+R3= 0
+R4= 0
+
 **11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.**
 
 ![image](https://user-images.githubusercontent.com/93739242/143328731-6639b74a-5046-414c-806e-e4ca7b8f6eed.png)
@@ -569,6 +601,26 @@ Los tres medidores están en serie, de modo que el voltaje a través de cada uno
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143320347-703b409d-92d5-4305-b481-d384f8f6b7ee.png)
 
+*** 13. La resistencia total de un circuito en paralelo es de 25 ohms. ¿Cuál es la corriente a través de un resistor de 220 ohms que forma parte de este circuito si la corriente total es de 100 mA?**
+
+*DATOS
+
+<img src="https://latex.codecogs.com/svg.image?R_{total}=&space;25\Omega" title="R_{total}= 25\Omega" />
+
+<img src="https://latex.codecogs.com/svg.image?I_{total}=&space;100mA" title="I_{total}= 100mA" />
+
+<img src="https://latex.codecogs.com/svg.image?R=&space;220\Omega" title="R= 220\Omega" />
+
+*VOLTAJE TOTAL
+
+<img src="https://latex.codecogs.com/svg.image?V_{total}=(I_{total})(R_{total})" title="V_{total}=(I_{total})(R_{total})" />
+
+<img src="https://latex.codecogs.com/svg.image?V_{total}=(0.1&space;A)(25\Omega)=&space;2.5V" title="V_{total}=(0.1 A)(25\Omega)= 2.5V" />
+
+*CORRIENTE EN EL RESISTOR (R)
+
+<img src="https://latex.codecogs.com/svg.image?I_{R}=\frac{V_{total}}{R}=\frac{2.5V}{220\Omega}=0.01136A=11.36mA" title="I_{R}=\frac{V_{total}}{R}=\frac{2.5V}{220\Omega}=0.01136A=11.36mA" />
+
 **17. ¿Cuál es la resistencia total de doce resistores de 6.8 kΩ dispuestos en paralelo?**
 
 <img src="https://latex.codecogs.com/svg.image?\textit{Ya&space;que&space;las&space;resistencias&space;se&space;encuentran&space;en&space;paralelo&space;su&space;total&space;es&space;dividido&space;para&space;todas&space;las&space;resistencias&space;existentes}\\[10pt]R_{x}=\frac{6800\Omega&space;}{12}=567\Omega&space;&space;" title="\textit{Ya que las resistencias se encuentran en paralelo su total es dividido para todas las resistencias existentes}\\[10pt]R_{x}=\frac{6800\Omega }{12}=567\Omega " />
@@ -588,9 +640,28 @@ Los tres medidores están en serie, de modo que el voltaje a través de cada uno
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143320716-dd5ddc95-70bd-4148-ae15-94a3741b4a5c.png)
 
+**19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18**
+
+**-Ejercicio: 18. Tres grupos, uno de cinco resistores de 470 ohms, otro de diez resistores de 100 ohms, y uno más de dos resistores de 100 ohms están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?**
+
+34.6 ohms
+
+
 **23 . Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente su ministrada por la fuente?**
 
 <img src="https://latex.codecogs.com/svg.image?R_{1,2}=\frac{R_{1}*R_{2}}{R_{1}&plus;R_{2}}=\frac{33*33}{33&plus;33}=\frac{1089}{66}=16.5\Omega&space;\\[5pt]R_{(1,2),3}=\frac{R_{1,2}*R_{3}}{R_{1,2}&plus;R_{3}}=\frac{16.5*33}{16.5&plus;33}=\frac{544.5}{49.5}=11\Omega&space;\\[5pt]I_{T}=\frac{V_{T}}{R_{T}}=\frac{110}{11}=10A&space;" title="R_{1,2}=\frac{R_{1}*R_{2}}{R_{1}+R_{2}}=\frac{33*33}{33+33}=\frac{1089}{66}=16.5\Omega \\[5pt]R_{(1,2),3}=\frac{R_{1,2}*R_{3}}{R_{1,2}+R_{3}}=\frac{16.5*33}{16.5+33}=\frac{544.5}{49.5}=11\Omega \\[5pt]I_{T}=\frac{V_{T}}{R_{T}}=\frac{110}{11}=10A " />
+
+**25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kohms, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?**
+
+*DATOS
+
+<img src="https://latex.codecogs.com/svg.image?V_{total}=110V" title="V_{total}=110V" />
+
+<img src="https://latex.codecogs.com/svg.image?R_{foco}=2200\Omega" title="R_{foco}=2200\Omega" />
+
+*CORRIENTE A TRAVES DE UN FOCO
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}=\frac{110V}{2200\Omega}=0.05A=50mA" title="I=\frac{V}{R}=\frac{110V}{2200\Omega}=0.05A=50mA" />
 
 **27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Æ mostrado en la figura 6-75 antes de que el
 fusible de 0.5 A se funda?**
@@ -609,6 +680,22 @@ fusible de 0.5 A se funda?**
  
 
 <img src="https://latex.codecogs.com/svg.image?\\[5pt]I_{3}=\frac{100V}{1200\Omega&space;}=0.08333A\to83.3mA\\[6pt]&space;R_{1}=\frac{100V}{0.05A}=2000\Omega&space;\to2k\Omega\\[6pt]I_{T}=250mA&plus;50mA=300mA\\[6pt]I_{T}=I_{1}&plus;I_{2}&plus;I_{3}\\[6pt]300mA=50mA&plus;I_{2}&plus;83.3mA\to&space;I_{2}=167mA\\[6pt]R_{2}=\frac{100V}{0.167A}=600\Omega&space;&space;&space;" title="\\[5pt]I_{3}=\frac{100V}{1200\Omega }=0.08333A\to83.3mA\\[6pt] R_{1}=\frac{100V}{0.05A}=2000\Omega \to2k\Omega\\[6pt]I_{T}=250mA+50mA=300mA\\[6pt]I_{T}=I_{1}+I_{2}+I_{3}\\[6pt]300mA=50mA+I_{2}+83.3mA\to I_{2}=167mA\\[6pt]R_{2}=\frac{100V}{0.167A}=600\Omega " />
+
+**31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79**
+
+[![3.png](https://i.postimg.cc/yYSwzGd8/3.png)](https://postimg.cc/CzSvGmk3)
+
+POSICIÓN A:
+
+2.25mA
+
+POSICIÓN B:
+
+4.75mA
+
+POSICIÓN C:
+
+(2.25+4.75)mA=7mA
 
 
 **33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81
@@ -640,6 +727,30 @@ fusible de 0.5 A se funda?**
  
 <img src="https://latex.codecogs.com/svg.image?\\[5pt]I_{T}=I_{1}&plus;I_{2}&plus;I_{3}&plus;I_{4}\\[5pt]15.53mA=3.64mA&plus;6.67mA&plus;I_{3}&plus;3.08mA\to&space;I_{3}=2.14mA\\[5pt]V_{s}=I_{T}*R_{T}\to&space;V_{s}=15.53mA*773\Omega&space;=12V\\[5pt]R_{1}=\frac{12V}{0.00364A}=3296.7\Omega&space;\to&space;3.3k\Omega&space;\\[5pt]R_{2}=\frac{12V}{0.00667A}=1799.1\Omega&space;\to&space;1.8k\Omega&space;\\[5pt]R_{3}=\frac{12V}{0.00214A}=5607.4\Omega&space;\to&space;5.6k\Omega&space;\\[5pt]R_{4}=\frac{12V}{0.00308A}=3896.1\Omega&space;\to&space;3.9k\Omega&space;\\[5pt]&space;&space;" title="\\[5pt]I_{T}=I_{1}+I_{2}+I_{3}+I_{4}\\[5pt]15.53mA=3.64mA+6.67mA+I_{3}+3.08mA\to I_{3}=2.14mAV_{s}=I_{T}*R_{T}\to V_{s}=15.53mA*773\Omega =12V\\[5pt]R_{1}=\frac{12V}{0.00364A}=3296.7\Omega \to 3.3k\Omega \\[5pt]R_{2}=\frac{12V}{0.00667A}=1799.1\Omega \to 1.8k\Omega \\[5pt]R_{3}=\frac{12V}{0.00214A}=5607.4\Omega \to 5.6k\Omega \\[5pt]R_{4}=\frac{12V}{0.00308A}=3896.1\Omega \to 3.9k\Omega \\[5pt] " />
 
+***37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kohms de escala completa entre la derivación para realizar la medición**
+
+
+(a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una
+aplicación de medición de 50 A?
+
+*DATOS
+
+R=? ; V= 50mV; I=50A
+
+*RESISTENCIA
+
+<img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}=\frac{0.05V}{50A}=0.001\Omega=1m\Omega" title="R=\frac{V}{I}=\frac{0.05V}{50A}=0.001\Omega=1m\Omega" />
+
+(b) ¿Cuánta corriente circula por el medidor?
+
+*DATOS
+
+I=?;  V=50mV;  R=10kohms
+
+*CORRIENTE
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}=\frac{0.05V}{10000\Omega}=0.000005A=5\mu&space;A" title="I=\frac{V}{R}=\frac{0.05V}{10000\Omega}=0.000005A=5\mu A" />
+
 **39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/143507785-2d9c4db9-04c8-452d-930d-574671b650cb.png)
@@ -659,6 +770,26 @@ fusible de 0.5 A se funda?**
 
  
 <img src="https://latex.codecogs.com/svg.image?\\[5pt]P_{T}=V_{S}*I_{T}\to&space;V_{S}=\frac{2W}{0.2A}=10V\\[5pt]P_{T}=P_{1}&plus;P_{2}\to&space;P_{1}=2W-0.75W=1.25W\\[5pt]P=\frac{V^{2}}{R}\to&space;R=\frac{V^{2}}{P}\\[5pt]R_{1}=\frac{(10V)^{2}}{1.25W}=80\Omega&space;\\[5pt]R_{2}=\frac{(10V)^{2}}{0.75W}=133\Omega&space;\\[5pt]V=I*R&space;\to&space;I=\frac{V}{R}\\[5pt]I_{1}=\frac{10V}{80\Omega&space;}=0.125A&space;\to&space;125mA&space;\\[5pt]I_{2}=\frac{10V}{133\Omega&space;}=0.075A&space;\to&space;75mA&space;\\[5pt]&space;&space;" title="\\[5pt]P_{T}=V_{S}*I_{T}\to V_{S}=\frac{2W}{0.2A}=10V\\[5pt]P_{T}=P_{1}+P_{2}\to P_{1}=2W-0.75W=1.25W\\[5pt]P=\frac{V^{2}}{R}\to R=\frac{V^{2}}{P}\\[5pt]R_{1}=\frac{(10V)^{2}}{1.25W}=80\Omega \\[5pt]R_{2}=\frac{(10V)^{2}}{0.75W}=133\Omega \\[5pt]V=I*R \to I=\frac{V}{R}\\[5pt]I_{1}=\frac{10V}{80\Omega }=0.125A \to 125mA \\[5pt]I_{2}=\frac{10V}{133\Omega }=0.075A \to 75mA \\[5pt] " />
+
+**43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?**
+
+*DATOS
+
+P=75W; 6 FOCOS; V=110V; 
+
+*Fórmula de la potencia y reemplazado datos
+
+<img src="https://latex.codecogs.com/svg.image?P=\frac{V^{2}}{R}\Rightarrow&space;R=\frac{(110^{2})}{75W}=161.33\Omega" title="P=\frac{V^{2}}{R}\Rightarrow R=\frac{(110^{2})}{75W}=161.33\Omega" />
+
+*Corriente en cada resistencia (foco)
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}=\frac{110V}{161.33\Omega}=0.6818A=681.81mA" title="I=\frac{V}{R}=\frac{110V}{161.33\Omega}=0.6818A=681.81mA" />
+
+*Corriente total
+
+<img src="https://latex.codecogs.com/svg.image?I_{total}=(0.6818mA)(5_{focos})=3.40mA" title="I_{total}=(0.6818mA)(5_{focos})=3.40mA" />
+
+
 
 **45. ¿Qué está mal con el circuito de la figura 6-86?**
 
@@ -703,6 +834,25 @@ R7 abierto: R = 1 MΩ|| 1.8 MΩ|| 510 kΩ =284 kΩ
 
 R8 abierto: R = 1 MΩ|| 1.8 MΩ|| 680 kΩ =330 kΩ
 
+*** 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:**
+
+[![4.png](https://i.postimg.cc/ZqjQctfV/4.png)](https://postimg.cc/nsjTF5fD)
+
+(a) 1 y 2
+
+<img src="https://latex.codecogs.com/svg.image?R_{1-2}=\left&space;(&space;\frac{1}{R_{1}}&plus;\frac{1}{R_{2}}&plus;\frac{1}{R_{3}}&plus;\frac{1}{R_{4}}&plus;\frac{1}{R_{11}}&plus;\frac{1}{R_{12}}&space;\right)^{-1}&plus;\left&space;(\frac{1}{R_{5}}&plus;\frac{1}{R_{6}}&plus;\frac{1}{R_{7}}&plus;\frac{1}{R_{8}}&plus;\frac{1}{R_{9}}&plus;\frac{1}{R_{10}}&space;\right&space;)^{-1}" title="R_{1-2}=\left ( \frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}+\frac{1}{R_{4}}+\frac{1}{R_{11}}+\frac{1}{R_{12}} \right)^{-1}+\left (\frac{1}{R_{5}}+\frac{1}{R_{6}}+\frac{1}{R_{7}}+\frac{1}{R_{8}}+\frac{1}{R_{9}}+\frac{1}{R_{10}} \right )^{-1}" />
+
+(b) 2 y 3 
+
+<img src="https://latex.codecogs.com/svg.image?R_{2-3}=\left&space;(\frac{1}{R_{5}}&plus;\frac{1}{R_{6}}&plus;\frac{1}{R_{7}}&plus;\frac{1}{R_{8}}&plus;\frac{1}{R_{9}}&plus;\frac{1}{R_{10}}&space;\right&space;)^{-1}" title="R_{2-3}=\left (\frac{1}{R_{5}}+\frac{1}{R_{6}}+\frac{1}{R_{7}}+\frac{1}{R_{8}}+\frac{1}{R_{9}}+\frac{1}{R_{10}} \right )^{-1}" />
+
+(c) 2 y 4 
+
+<img src="https://latex.codecogs.com/svg.image?R_{2-4}=\left&space;(\frac{1}{R_{5}}&plus;\frac{1}{R_{6}}&plus;\frac{1}{R_{7}}&plus;\frac{1}{R_{8}}&plus;\frac{1}{R_{9}}&plus;\frac{1}{R_{10}}&space;\right&space;)^{-1}" title="R_{2-4}=\left (\frac{1}{R_{5}}+\frac{1}{R_{6}}+\frac{1}{R_{7}}+\frac{1}{R_{8}}+\frac{1}{R_{9}}+\frac{1}{R_{10}} \right )^{-1}" />
+
+(d) 1 y 4
+
+<img src="https://latex.codecogs.com/svg.image?R_{1-4}=\left&space;(\frac{1}{R_{1}}&plus;\frac{1}{R_{2}}&plus;\frac{1}{R_{3}}&plus;\frac{1}{R_{4}}&plus;\frac{1}{R_{11}}&plus;\frac{1}{R_{12}}&space;\right&space;)^{-1}" title="R_{1-4}=\left (\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}+\frac{1}{R_{4}}+\frac{1}{R_{11}}+\frac{1}{R_{12}} \right )^{-1}" />
 
 <h3>4. VIDEO</h3>
 
