@@ -2,6 +2,10 @@
  
 <h3>1. OBJETIVOS</h3>
 
+Objetivo General:
+
+Analizar e identificar las caracteristicas unicas tanto para los circuitos en serie como de los circuitos en paralelo con el fin de reconocerlos en la practica y utilizar el metodo apropiado de resolución necesario para cada uno, a través del estudio de los capitulos 5 y 6 del libro de Floyd.
+
 
 Objetivos Específicos:
 
@@ -856,7 +860,7 @@ R8 abierto: R = 1 MΩ|| 1.8 MΩ|| 680 kΩ =330 kΩ
 
 <h3>4. VIDEO</h3>
 
-
+https://youtu.be/dDGBg9Dgv9M
 
 <h3>5.CONCLUSIONES</h3>
 
@@ -874,4 +878,6 @@ R8 abierto: R = 1 MΩ|| 1.8 MΩ|| 680 kΩ =330 kΩ
 
 
 <h3>6. BIBLIOGRAFÍA</h3>
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos. (8.ª ed.). México: PEARSON EDUCACIÓN.
 
